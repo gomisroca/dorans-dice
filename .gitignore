@@ -1,0 +1,4 @@
+gacha-env/
+backend/static-data/
+requests.rest
+*.env
